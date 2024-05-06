@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rakesh-Kumar-Subudhi
-- 👀 I’m interested in Html,Css,Javascript,Laravel
-- 🌱 I’m currently learning Jqurey
+- 👀 I’m interested in Html,Css,Bootstrap,Javascript,Jquery,Laravel
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Laravel Project
-- 📫 How to reach me : subudhirakeshkumar3@gmail.com
+- 📫 How to reach me : subudhirakeshkumar19@gmail.com
 
 <!---
 Rakesh-Kumar-Subudhi/Rakesh-Kumar-Subudhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
